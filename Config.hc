@@ -47,6 +47,27 @@ LINK PAYLOAD:
 SSH AKUN=
 
 
+id1-ws.sshmax.xyz:80@sshmax-mwp56797001:mwp
+
+ma.7hari
+exp.14nov
+status= aktif 
+
+
+...................
+
+
+
+sg-udpgw.sshws.net:80@fastssh.com-mwproject378:  abcsf
+
+ma.7hari
+exp.14nov
+status= aktif
+
+
+..................
+
+
 
 
 
@@ -218,5 +239,14 @@ pro-693dz.zvx.my.id:80@Inumaki666:12312**
 ───────────────────────────────────────
 
 ───────────────────────────────────────
+Apa yang ingin Anda tanyakan?....
 
+wa.me/62856003820033
+
+grup whatsapp HTTP CUSTOM : 
+ https://chat.whatsapp.com/KChIQJ6mUtRFb6Lf8hYH5k 
+
+TELEGRAM grup http://t.me/mwvpnoffc
+
+Channel telegram http://t.me/mwvpnofficial
 ───────────────────────────────────────

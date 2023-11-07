@@ -10,9 +10,16 @@ https://drive.google.com/drive/folders/1S_21C-hODW8C1qQG-cvTMCeRIA4CDN0w
 Note: blm diupdate
 ───────────────────────────────────────
 BUG : -
-───────────────────────────────────────
-PAYLOAD : -
-───────────────────────────────────────
+
+LINK BUG:
+──────────────────────────────────────
+PAYLOAD : 
+
+
+LINK PAYLOAD:
+ https://raw.githubusercontent.com/wawo97/HTTP-CUSTOM/main/PAYLOAD.txt
+
+──────────────────────────────────────
 V2RAY : -
 ───────────────────────────────────────
 UDP AKUN : -
